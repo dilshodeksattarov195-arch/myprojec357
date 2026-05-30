@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpercrocess",
+        "uuid": 1857471,
+        "checksum": "rdb5ce"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
